@@ -1,0 +1,2 @@
+# sardana-AltOnPseudoCounterController
+Sardana PseudoCounter for alternating measurements
